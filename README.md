@@ -2,8 +2,7 @@
 ```
 Hello, I am a .NET Developer in Shanghai.
 ```
-![](https://github-readme-stats.vercel.app/api?username=quqcat&show_icons=true&icon_color=0078e7&title_color=0078e7)
+![](https://github-readme-stats.vercel.app/api?username=imedisonjiang&show_icons=true&icon_color=0078e7&title_color=0078e7)
 
 ### Contact Me  
-  * 🥗Email: quqcat@outlook.com
-  * 🍦Blog: https://quqcat.github.io
+  * 🥗Email: edison.jiang@outlook.com
